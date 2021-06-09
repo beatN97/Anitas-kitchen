@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+       <meta charset="utf-8">
+       <mata name="viewport" content=width=device-width">
+       <little> Bazel-less Phones</titile>
+</head>
+ <body>
+       <h1>Bezel_less Phones</h1>
+       <img src="https://upload.wikimedi.org/wikipedia/commons/e/ea/Essential_Phone_in_ocean_deapths.jpg">
+       <p>
+          with technological advancements happening ata an unprecedented
+          rate, yesterday's science fiction is quickly turning into 
+          todays'reality. From sefl-driving cars , the space-station,
+          virtual and augmented reality and now bezel-less phones.this
+          yeal alone, four major smartphones with minimal bezels have hit 
+          the market it would appear that inedeed, human exploits are 
+          limited only by imagination. What you suppose will be the 
+          next science fiction to be actualised?
+        <div class="container"<
+        
+
+
+    </html>{
+        background-colour: rgb(0, 0, 0);
+    }
+    body{
+        witdh:60%
+        Margin:auto;
+        background-colour: rgb(247, 247, 247);
+    }
+    h1{
+        text-align: center;
+    }
+    img {
+        height: 200px;
+        width: auto;
+        float: left;
+        margin-right: 10px;
+    }
+    p { 
+        margin-top: 40px;
+       
+       </body>                                                                                                                                                                                                                                                                                                                                                       
+    
+        
+
